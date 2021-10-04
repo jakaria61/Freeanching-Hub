@@ -1,6 +1,6 @@
 # Freelanching Hub
 
-## live site : 
+## live site : https://dazzling-swirles-d7be7c.netlify.app/
 
 ### Technologies: Html,css,React js, React bootstrap, React ratings .
 

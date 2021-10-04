@@ -22,6 +22,26 @@ const About = () => {
                     </div>
                 </div>
             </div>
+            <div className="container">
+
+                <div className='clients-container'>
+                    <div className='single-client'>
+                        <h1>10k</h1>
+                        <h5>Happy Customers</h5>
+
+                    </div>
+                    <div className='single-client'>
+
+                        <h1>8k+</h1>
+                        <h5>Efficiently</h5>
+                    </div>
+                    <div className='single-client'>
+                        <h1>10 Years</h1>
+                        <h5>Years of Experience</h5>
+
+                    </div>
+                </div>
+            </div>
         </div>
     );
 };
