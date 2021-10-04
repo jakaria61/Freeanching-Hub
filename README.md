@@ -1,3 +1,16 @@
+# Freelanching Hub
+
+## live site : 
+
+### Technologies: Html,css,React js, React bootstrap, React ratings .
+
+## project Details: 
+</li> User can learn about Freelanching</li>
+</li> User can learn web Programming</li>
+</li> User can Buy our courses.</li>
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
