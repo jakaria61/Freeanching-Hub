@@ -1,0 +1,19 @@
+.course-img{
+    border-radius:10px;
+}
+.single-course{
+    padding:10px;
+    border-radius:10px;
+    margin: 15px;
+    background-color:white;
+
+}
+.single-course:hover{
+    background-color:rgba(216, 112, 147, 0.767);
+    color: white;
+    
+}
+
+.icon-color{
+    color:gold;
+}

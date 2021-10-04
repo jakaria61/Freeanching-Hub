@@ -1,0 +1,101 @@
+[
+    {
+        "id": 1,
+        "name": "Web Development",
+        "ins_name": "Md Jakaria",
+        "price": 4444,
+        "img": "https://i.ibb.co/KX9QQJD/Artificial-Intelligence-5.png",
+        "rating": 5,
+        "des": "After completing this course you can make any type of website.you can get a job remotly or localy.Besides you can earn money with freelancing."
+    },
+    {
+        "id": 2,
+        "name": "Web Design",
+        "ins_name": "Md Milon",
+        "price": 5555,
+        "img": "https://i.ibb.co/VDnm492/top11-1.png",
+        "rating": 5,
+        "des": "After completing this course you can make any type of website.you can get a job remotly or localy.Besides you can earn money with freelancing."
+    },
+    {
+        "id": 3,
+        "name": "React JS & Native",
+        "ins_name": "Fahim Ahammed",
+        "price": 4000,
+        "img": "https://i.ibb.co/hWvt2fw/download.png",
+        "rating": 5,
+        "des": "React is a free and open-source front-end JavaScript library for building user interfaces or UI components."
+    },
+    {
+        "id": 4,
+        "name": "Advance CSS3",
+        "ins_name": "Rajvir Shingh",
+        "price": 5500,
+        "img": "https://i.ibb.co/Qr3NPyx/unnamed.png",
+        "rating": 5,
+        "des": "Advanced CSS is a set of tools and techniques that help you create the modern websites that employers and clients are looking for."
+    },
+    {
+        "id": 5,
+        "name": "JavaScriot",
+        "ins_name": "Md Milon",
+        "price": 3500,
+        "img": "https://i.ibb.co/q58LHrV/java-script.png",
+        "rating": 4,
+        "des": "JavaScript, often abbreviated as JS, is a programming language that conforms to the ECMAScript specification"
+    },
+    {
+        "id": 6,
+        "name": "Digital Marketing",
+        "ins_name": "Sagor Sarker",
+        "price": 5000,
+        "img": "https://i.ibb.co/hKw77xQ/Digital-Marketing-1.png",
+        "rating": 5,
+        "des": "Digital marketing is the component of marketing that utilizes internet and online based digital technologies such as desktop computers, mobile phones and other digital media and platforms to promote products and services "
+    },
+    {
+        "id": 7,
+        "name": "Graphic Design",
+        "ins_name": "Pronoy Biswas",
+        "price": 5000,
+        "img": "https://i.ibb.co/NszQSc6/graphic-designer-workplace-52683-5306.png",
+        "rating": 5,
+        "des": "Graphic design is the profession and academic discipline whose activity consists in projecting visual communications intended to transmit specific messages to social groups"
+    },
+    {
+        "id": 8,
+        "name": "Android Apps ",
+        "ins_name": "Md Jakaria",
+        "price": 7000,
+        "img": "https://i.ibb.co/PQyJkLr/android-mobile-1.png",
+        "rating": 5,
+        "des": "Android software development is the process by which applications are created for devices running the Android operating system. "
+    },
+    {
+        "id": 9,
+        "name": "CPA Marketing",
+        "ins_name": "Saim Hasan Nahid",
+        "price": 2500,
+        "img": "https://i.ibb.co/yh8zRLY/CPA-marketing-Doofinder.png",
+        "rating": 5,
+        "des": "Cost per action, also sometimes misconstrued in marketing environments as cost per acquisition, is an online advertising measurement and pricing "
+    },
+    {
+        "id": 10,
+        "name": "FaceBook Marketing",
+        "ins_name": "Shuvo",
+        "price": 3500,
+        "img": "https://i.ibb.co/5K8pLqV/0001826968.jpg",
+        "rating": 5,
+        "des": "Facebook marketing refers to creating—and actively using—a Facebook page as a communications channel to maintain contact with and attract customers"
+    },
+    {
+        "id": 11,
+        "name": "HTML CSS ",
+        "ins_name": "Niloy",
+        "price": 3000,
+        "img": "https://i.ibb.co/S71WRTh/1562148075318.jpg",
+        "rating": 5,
+        "des": "Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML"
+    }
+]

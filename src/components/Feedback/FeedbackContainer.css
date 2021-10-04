@@ -1,0 +1,12 @@
+.feeback-img{
+    border-radius:10%;
+    margin: 20px;
+    align-items: center;
+}
+.feedback-details{
+    background-color:#eee;
+    border-radius:10px;
+    margin:20px;
+    text-align:center;
+    border: 2px solid green;
+}

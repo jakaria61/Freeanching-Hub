@@ -1,0 +1,10 @@
+.all-course{
+    background-color: #eee;
+    border-radius:10px;
+}
+.heading{
+    text-align:center;
+    color: rgb(57, 59, 59);
+    border-bottom: 3px solid rgba(63, 57, 57, 0.603);
+
+}

@@ -1,0 +1,10 @@
+.about-banner img{
+width: 100%;
+}
+.about-container{
+    background-color: #eee;
+}
+.about-container img{
+    margin:10px;
+    border-radius: 10px;
+}

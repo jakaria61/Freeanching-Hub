@@ -1,0 +1,16 @@
+.nav-style{
+    color: green;
+    margin-right: 10px;
+    font-size:20px;
+    text-decoration: none;
+   margin-left: 10px;
+}
+.nav-style:hover{
+    background-color:#eee;
+    padding:10px;
+    border-radius: 10px;
+}
+.nav-img{
+    width:100px;
+
+}
