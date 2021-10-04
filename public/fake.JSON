@@ -3,7 +3,7 @@
         "id": 1,
         "name": "Md Jakaria.",
         "age": 71,
-        "Role": "Student",
+        "Role": "Level 2 Freelancer",
         "img": "https://i.ibb.co/rp6W1br/2017-10-29-15-01-50-327.png",
         "country": "France",
         "review": "Its Really amezing website. this website is very usefull for every one"
@@ -12,7 +12,7 @@
         "id": 2,
         "name": "Fahim ",
         "age": 71,
-        "Role": "Student",
+        "Role": "Level 2 Freelancer",
         "img": "https://i.ibb.co/bdj1DZR/1-3g8-X-a-Ag-MW-Ju-AJUff-NU5-A.png",
         "country": "France",
         "review": "Thats Amezing. this website is very usefull for every one"
@@ -21,7 +21,7 @@
         "id": 3,
         "name": "Pronoy",
         "age": 71,
-        "Role": "Student",
+        "Role": "Level 2 Freelancer",
         "img": "https://i.ibb.co/s5qfPc0/ba-comex-bis-660x974.png",
         "country": "France",
         "review": "Thats great tutorials. this website is very usefull for every one"
@@ -30,7 +30,7 @@
         "id": 4,
         "name": "Bernard Arnault.",
         "age": 71,
-        "Role": "Professor",
+        "Role": "Level 3 Freelancer",
         "img": "https://i.ibb.co/s5qfPc0/ba-comex-bis-660x974.png",
         "country": "France",
         "review": "Thats great tutorials. this website is very usefull for every one"
@@ -39,7 +39,7 @@
         "id": 5,
         "name": "Elon Musk",
         "age": 51,
-        "Role": "Lecturer ",
+        "Role": "Pro Freelancer ",
         "img": "https://i.ibb.co/C990K87/Elon-Musk-Royal-Society-crop1.png",
         "country": "Canada",
         "review": "This is very nice website to learn Everything.You can easily learn Programming . This website is very help full for us. Thanks Milon it ."
@@ -48,7 +48,7 @@
         "id": 6,
         "name": "Larry Ellison.",
         "age": 77,
-        "Role": "Pro Learner ",
+        "Role": "Pro Rated Freelancer ",
         "img": "https://i.ibb.co/dGJBTmy/Larry-Ellison-picture-1.png",
         "country": "United States",
         "review": "Nicely Explain every things. its to much good for us. i am vary excited about this . Thanks Milon it."

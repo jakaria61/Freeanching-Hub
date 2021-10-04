@@ -1,0 +1,13 @@
+.topsection-container{
+    background-color: lightgrey;
+    text-align: center;
+    color:black ;
+    border-radius: 5px;
+}
+.free-img{
+    margin: 10px;
+    border-radius: 10px;
+}
+.title{
+    color: rgba(9, 104, 9, 0.747);
+}

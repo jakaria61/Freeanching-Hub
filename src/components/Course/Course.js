@@ -1,9 +1,14 @@
 import React from 'react';
 import Rating from 'react-rating';
+import { useHistory } from 'react-router';
 
 import './Course.css'
 const Course = (props) => {
+    const history = useHistory();
     const { name, price, ins_name, img, rating } = props.course;
+    const hanelViewMore = () => {
+        history.push('/Services')
+    }
     return (
         <div className='col-md-6 course-detail'>
             <div className='single-course d-flex flex-wrap' >
@@ -19,7 +24,7 @@ const Course = (props) => {
                         fullSymbol="fas fa-star icon-color"
                         readonly></Rating>
                     <h4>Price: {price}</h4>
-                    <button className='btn btn-outline-success' >Enroll Now</button>
+                    <button onClick={hanelViewMore} className='btn btn-outline-success' >View More</button>
                 </div>
             </div>
         </div>

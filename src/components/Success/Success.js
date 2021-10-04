@@ -9,7 +9,7 @@ const Success = () => {
             .then(data => setComnettetor(data))
     }, [])
     return (
-        <div className='row  '>
+        <div className='row '>
             <h1 className='succes-history'>Our Success History</h1>
             <div className='row all-course  '>
                 {
