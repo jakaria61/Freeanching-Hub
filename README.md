@@ -5,9 +5,9 @@
 ### Technologies: Html,css,React js, React bootstrap, React ratings .
 
 ## project Details: 
-</li> User can learn about Freelanching</li>
-</li> User can learn web Programming</li>
-</li> User can Buy our courses.</li>
+<li> User can learn about Freelanching</li>
+<li> User can learn web Programming</li>
+<li> User can Buy our courses.</li>
 
 
 
